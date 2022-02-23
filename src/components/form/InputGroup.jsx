@@ -1,5 +1,3 @@
-import React from "react";
-
 const InputGroup = ({ labelText, inputType, inputId, ariaDescription, noticeId, noticeText }) => {
 	return (
 		<div className='mb-3'>
